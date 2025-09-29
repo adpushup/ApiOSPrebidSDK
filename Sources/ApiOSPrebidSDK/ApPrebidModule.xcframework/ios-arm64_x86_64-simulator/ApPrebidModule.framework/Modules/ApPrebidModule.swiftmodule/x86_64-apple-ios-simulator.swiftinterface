@@ -27,7 +27,9 @@ extension ApPrebidModule.ApPrebidListener {
   public func onSuccess()
   public func onError(code: Swift.Int, message: Swift.String)
 }
-@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class ApPrebidSDK : ObjectiveC.NSObject {
+@objc @_inheritsConvenienceInitializers public class ApPrebidSDK : ObjectiveC.NSObject {
+  public static let shared: ApPrebidModule.ApPrebidSDK
+  @objc override dynamic public init()
   public func initialise(apAppId: Swift.String)
   public func reSizeBannerAd(adView: GoogleMobileAds.GADBannerView)
   @objc deinit

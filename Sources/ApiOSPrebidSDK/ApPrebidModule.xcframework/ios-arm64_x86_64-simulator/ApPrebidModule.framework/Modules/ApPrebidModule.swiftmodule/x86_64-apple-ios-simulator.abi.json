@@ -376,6 +376,83 @@
         "printedName": "ApPrebidSDK",
         "children": [
           {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ApPrebidSDK",
+                "printedName": "ApPrebidModule.ApPrebidSDK",
+                "usr": "c:@M@ApPrebidModule@objc(cs)ApPrebidSDK"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14ApPrebidModule0aB3SDKC6sharedACvpZ",
+            "mangledName": "$s14ApPrebidModule0aB3SDKC6sharedACvpZ",
+            "moduleName": "ApPrebidModule",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ApPrebidSDK",
+                    "printedName": "ApPrebidModule.ApPrebidSDK",
+                    "usr": "c:@M@ApPrebidModule@objc(cs)ApPrebidSDK"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14ApPrebidModule0aB3SDKC6sharedACvgZ",
+                "mangledName": "$s14ApPrebidModule0aB3SDKC6sharedACvgZ",
+                "moduleName": "ApPrebidModule",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ApPrebidSDK",
+                "printedName": "ApPrebidModule.ApPrebidSDK",
+                "usr": "c:@M@ApPrebidModule@objc(cs)ApPrebidSDK"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@ApPrebidModule@objc(cs)ApPrebidSDK(im)init",
+            "mangledName": "$s14ApPrebidModule0aB3SDKCACycfc",
+            "moduleName": "ApPrebidModule",
+            "overriding": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override",
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
             "kind": "Function",
             "name": "initialise",
             "printedName": "initialise(apAppId:)",
@@ -437,7 +514,6 @@
           "ObjC"
         ],
         "superclassUsr": "c:objc(cs)NSObject",
-        "hasMissingDesignatedInitializers": true,
         "inheritsConvenienceInitializers": true,
         "superclassNames": [
           "ObjectiveC.NSObject"

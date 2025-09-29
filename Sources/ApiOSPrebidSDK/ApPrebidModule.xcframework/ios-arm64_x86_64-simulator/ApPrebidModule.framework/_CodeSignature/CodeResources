@@ -10,7 +10,7 @@
 		</data>
 		<key>Frameworks/Pods_ApPrebidModule.framework/Pods_ApPrebidModule</key>
 		<data>
-		0N+VwH0S8mA92nS/xBQPUC1l7Yg=
+		YKVu8f06gvrWf0X/Ud62CVR1igs=
 		</data>
 		<key>Frameworks/Pods_ApPrebidModule.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Headers/ApPrebidModule-Swift.h</key>
 		<data>
-		K7AYNOkKBTgojmI4Cb73KlrSJzA=
+		c9Vlmhs5pRM82w2p4m0jcGctEWY=
 		</data>
 		<key>Headers/ApPrebidModule.h</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/ApPrebidModule.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		fdRtoCiel9mcbneBjZoWMiSw+j4=
+		A1qCcFNZmdJxiE4VFZfZy6pucsE=
 		</data>
 		<key>Modules/ApPrebidModule.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		F4Ja3v6XKafvrhtGm+4Nf6b53+Q=
+		8vwkm3qhO77AZqRE98+uewhRijg=
 		</data>
 		<key>Modules/ApPrebidModule.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -58,19 +58,19 @@
 		</data>
 		<key>Modules/ApPrebidModule.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		F4Ja3v6XKafvrhtGm+4Nf6b53+Q=
+		8vwkm3qhO77AZqRE98+uewhRijg=
 		</data>
 		<key>Modules/ApPrebidModule.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		YKDK0BhXSONXP83Fn2r5HbhlLMw=
+		eN9YkNDeTtXreYRblNTVoyolR8Q=
 		</data>
 		<key>Modules/ApPrebidModule.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		fdRtoCiel9mcbneBjZoWMiSw+j4=
+		A1qCcFNZmdJxiE4VFZfZy6pucsE=
 		</data>
 		<key>Modules/ApPrebidModule.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		OFrEB2tTCQrJA/TLBI9ldub/pMc=
+		oXpWJhQD4l3hLCkjrFNMnOeZtg0=
 		</data>
 		<key>Modules/ApPrebidModule.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -78,11 +78,11 @@
 		</data>
 		<key>Modules/ApPrebidModule.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		OFrEB2tTCQrJA/TLBI9ldub/pMc=
+		oXpWJhQD4l3hLCkjrFNMnOeZtg0=
 		</data>
 		<key>Modules/ApPrebidModule.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		hJWx/DvZfrjaz3sXXgCEREjeS20=
+		o1syS3CBqDmZH27IhTl0yfOw7eA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -102,7 +102,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UOIi4h9Uv3mBw+CFFdheCOKOmHosRrfdXtOMDRiLs7M=
+			K9dQ30dTTNO3UayvQtliriwf5URlEcNCSvQIZcou0QA=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_ApPrebidModule.framework/_CodeSignature/CodeResources</key>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mWEVy45cm46EYatfz8Z9iB8VRR7ZiRrsljJbs4ev3sI=
+			UDE+hbGLansY7FcoeDimgpRGqHr8qXMGRGBZeYdPYGA=
 			</data>
 		</dict>
 		<key>Headers/ApPrebidModule.h</key>
@@ -158,14 +158,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UUG43Zszm5h6kJ/onfDEMxyFgncNjFt5DsB17+7th4A=
+			g+f/KvKROWhk5tMMcjH0rgQjDm9YZCKYTDUIPTSMirs=
 			</data>
 		</dict>
 		<key>Modules/ApPrebidModule.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4TVhbAM+JsqtH0jDQsrX6jFyqiSOD5gdI/Uy20/lito=
+			4Tz4D6vbKRVsThTMTh8zypgms4eyRLvyCpRvTgFIZyg=
 			</data>
 		</dict>
 		<key>Modules/ApPrebidModule.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -179,28 +179,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4TVhbAM+JsqtH0jDQsrX6jFyqiSOD5gdI/Uy20/lito=
+			4Tz4D6vbKRVsThTMTh8zypgms4eyRLvyCpRvTgFIZyg=
 			</data>
 		</dict>
 		<key>Modules/ApPrebidModule.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1Dtf2NnKVzlY06GOdMZz7YURiBkttA4HR/AQYFAy4rM=
+			dMQUnv70Gk1GAiwiMgWye/xOsxAMCDRBMUToL8LENHI=
 			</data>
 		</dict>
 		<key>Modules/ApPrebidModule.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UUG43Zszm5h6kJ/onfDEMxyFgncNjFt5DsB17+7th4A=
+			g+f/KvKROWhk5tMMcjH0rgQjDm9YZCKYTDUIPTSMirs=
 			</data>
 		</dict>
 		<key>Modules/ApPrebidModule.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G2Z+J3CtPCownrqeyWTz5TD6Xr2frM09Xh1RvFuh+jY=
+			tm036i7ZcLDzTQrJPQ+WZJAWJkZf9UVg7Dc9B4h/CIg=
 			</data>
 		</dict>
 		<key>Modules/ApPrebidModule.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -214,14 +214,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			G2Z+J3CtPCownrqeyWTz5TD6Xr2frM09Xh1RvFuh+jY=
+			tm036i7ZcLDzTQrJPQ+WZJAWJkZf9UVg7Dc9B4h/CIg=
 			</data>
 		</dict>
 		<key>Modules/ApPrebidModule.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GxWp0WcM2firwCGb1X4Sv+7NfiNY8wdwouyaEIXPEFw=
+			WMTlbb05zUSAtuEBxOBeThM6Xvu1rIEZCUPfZC2npZ4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

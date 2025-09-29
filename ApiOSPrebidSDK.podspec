@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "ApiOSPrebidSDK"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "ApiOSPrebidSDK provides full screen ad formats such as Smart Rewarded and Smart Interstitial ads for the iOS apps"
   spec.description  = "ApiOSPrebidSDK is easy to implement SDK provides full screen ad formats such as Smart Rewarded and Smart Interstitial ads for the iOS apps."
   spec.homepage     = "https://github.com/adpushup/ApiOSPrebidSDK"
@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   spec.vendored_frameworks = "Sources/ApiOSPrebidSDK/ApPrebidModule.xcframework"
   spec.source_files = "Sources/ApiOSPrebidSDK/Placeholder.swift"
   spec.dependency 'Google-Mobile-Ads-SDK', '~> 11.13'
-  spec.dependency 'PrebidMobile', '~> 2.3.0'
+  spec.dependency 'PrebidMobile', '~> 3.1'
   spec.static_framework = true
 
 end

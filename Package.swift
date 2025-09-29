@@ -18,8 +18,8 @@ let package = Package(
     targets: [
         .binaryTarget(
            name: "ApPrebidModule",
-           url: "https://github.com/adpushup/ApiOSPrebidSDK/releases/download/1.0.0/ApPrebidModule.xcframework.zip",
-           checksum: "683fc176aae1887dc7e99200dab08253b0e0f5557932dc8be61360bf09f3818a"
+           url: "https://github.com/adpushup/ApiOSPrebidSDK/releases/download/1.0.1/ApPrebidModule.xcframework.zip",
+           checksum: "235b206821b5683efbce0a9c5124de91d27267040388fe67d712526ae7d521b2"
        ),
        .target(
             name: "ApiOSPrebidSDK",
