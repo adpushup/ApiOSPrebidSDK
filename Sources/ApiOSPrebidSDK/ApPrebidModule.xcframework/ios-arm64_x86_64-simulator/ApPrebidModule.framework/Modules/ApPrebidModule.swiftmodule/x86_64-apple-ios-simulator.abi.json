@@ -1,0 +1,696 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "ApPrebidModule",
+    "printedName": "ApPrebidModule",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ApPrebidModule",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "PrebidMobile",
+        "printedName": "PrebidMobile",
+        "declKind": "Import",
+        "moduleName": "ApPrebidModule"
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "ApPrebidModule"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ApPrebidModule",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "PrebidMobile",
+        "printedName": "PrebidMobile",
+        "declKind": "Import",
+        "moduleName": "ApPrebidModule"
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "ApPrebidModule"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ApPrebidAdUnit",
+        "printedName": "ApPrebidAdUnit",
+        "declKind": "Class",
+        "usr": "c:@M@ApPrebidModule@objc(cs)ApPrebidAdUnit",
+        "mangledName": "$s14ApPrebidModule0aB6AdUnitC",
+        "moduleName": "ApPrebidModule",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "hasMissingDesignatedInitializers": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ApPrebidModule",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ApPrebidListener",
+        "printedName": "ApPrebidListener",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "onCompleted",
+            "printedName": "onCompleted()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@ApPrebidModule@objc(pl)ApPrebidListener(im)onCompleted",
+            "mangledName": "$s14ApPrebidModule0aB8ListenerP11onCompletedyyF",
+            "moduleName": "ApPrebidModule",
+            "genericSig": "<τ_0_0 where τ_0_0 : ApPrebidModule.ApPrebidListener>",
+            "sugared_genericSig": "<Self where Self : ApPrebidModule.ApPrebidListener>",
+            "protocolReq": true,
+            "declAttributes": [
+              "ObjC"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onSuccess",
+            "printedName": "onSuccess()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@ApPrebidModule@objc(pl)ApPrebidListener(im)onSuccess",
+            "mangledName": "$s14ApPrebidModule0aB8ListenerP9onSuccessyyF",
+            "moduleName": "ApPrebidModule",
+            "genericSig": "<τ_0_0 where τ_0_0 : ApPrebidModule.ApPrebidListener>",
+            "sugared_genericSig": "<Self where Self : ApPrebidModule.ApPrebidListener>",
+            "protocolReq": true,
+            "declAttributes": [
+              "ObjC"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onError",
+            "printedName": "onError(code:message:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@ApPrebidModule@objc(pl)ApPrebidListener(im)onErrorWithCode:message:",
+            "mangledName": "$s14ApPrebidModule0aB8ListenerP7onError4code7messageySi_SStF",
+            "moduleName": "ApPrebidModule",
+            "genericSig": "<τ_0_0 where τ_0_0 : ApPrebidModule.ApPrebidListener>",
+            "sugared_genericSig": "<Self where Self : ApPrebidModule.ApPrebidListener>",
+            "protocolReq": true,
+            "objc_name": "onErrorWithCode:message:",
+            "declAttributes": [
+              "ObjC"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onCompleted",
+            "printedName": "onCompleted()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14ApPrebidModule0aB8ListenerPAAE11onCompletedyyF",
+            "mangledName": "$s14ApPrebidModule0aB8ListenerPAAE11onCompletedyyF",
+            "moduleName": "ApPrebidModule",
+            "genericSig": "<τ_0_0 where τ_0_0 : ApPrebidModule.ApPrebidListener>",
+            "sugared_genericSig": "<Self where Self : ApPrebidModule.ApPrebidListener>",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onSuccess",
+            "printedName": "onSuccess()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14ApPrebidModule0aB8ListenerPAAE9onSuccessyyF",
+            "mangledName": "$s14ApPrebidModule0aB8ListenerPAAE9onSuccessyyF",
+            "moduleName": "ApPrebidModule",
+            "genericSig": "<τ_0_0 where τ_0_0 : ApPrebidModule.ApPrebidListener>",
+            "sugared_genericSig": "<Self where Self : ApPrebidModule.ApPrebidListener>",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onError",
+            "printedName": "onError(code:message:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14ApPrebidModule0aB8ListenerPAAE7onError4code7messageySi_SStF",
+            "mangledName": "$s14ApPrebidModule0aB8ListenerPAAE7onError4code7messageySi_SStF",
+            "moduleName": "ApPrebidModule",
+            "genericSig": "<τ_0_0 where τ_0_0 : ApPrebidModule.ApPrebidListener>",
+            "sugared_genericSig": "<Self where Self : ApPrebidModule.ApPrebidListener>",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "c:@M@ApPrebidModule@objc(pl)ApPrebidListener",
+        "mangledName": "$s14ApPrebidModule0aB8ListenerP",
+        "moduleName": "ApPrebidModule",
+        "genericSig": "<τ_0_0 : AnyObject>",
+        "sugared_genericSig": "<Self : AnyObject>",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "XCTest",
+        "printedName": "XCTest",
+        "declKind": "Import",
+        "moduleName": "ApPrebidModule",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ApPrebidModule",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "PrebidMobile",
+        "printedName": "PrebidMobile",
+        "declKind": "Import",
+        "moduleName": "ApPrebidModule"
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "ApPrebidModule"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ApPrebidSDK",
+        "printedName": "ApPrebidSDK",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "initialise",
+            "printedName": "initialise(apAppId:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14ApPrebidModule0aB3SDKC10initialise7apAppIdySS_tF",
+            "mangledName": "$s14ApPrebidModule0aB3SDKC10initialise7apAppIdySS_tF",
+            "moduleName": "ApPrebidModule",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "reSizeBannerAd",
+            "printedName": "reSizeBannerAd(adView:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "GADBannerView",
+                "printedName": "GoogleMobileAds.GADBannerView",
+                "usr": "c:objc(cs)GADBannerView"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14ApPrebidModule0aB3SDKC14reSizeBannerAd6adViewySo09GADBannerJ0C_tF",
+            "mangledName": "$s14ApPrebidModule0aB3SDKC14reSizeBannerAd6adViewySo09GADBannerJ0C_tF",
+            "moduleName": "ApPrebidModule",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@ApPrebidModule@objc(cs)ApPrebidSDK",
+        "mangledName": "$s14ApPrebidModule0aB3SDKC",
+        "moduleName": "ApPrebidModule",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "hasMissingDesignatedInitializers": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ApPrebidModule",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ApPrebidModule",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ApPrebidModule"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ApPrebidModule",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ApPrebidModule",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ApPrebidModule"
+      },
+      {
+        "kind": "Import",
+        "name": "os.lock",
+        "printedName": "os.lock",
+        "declKind": "Import",
+        "moduleName": "ApPrebidModule"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/Rishabh\/Documents\/Swift\/ApPrebidModule\/Sources\/ApPrebidModule\/ApPrebidAdUnit.swift",
+      "kind": "BooleanLiteral",
+      "offset": 332,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/Rishabh\/Documents\/Swift\/ApPrebidModule\/Sources\/ApPrebidModule\/ApPrebidAdUnit.swift",
+      "kind": "BooleanLiteral",
+      "offset": 383,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/Rishabh\/Documents\/Swift\/ApPrebidModule\/Sources\/ApPrebidModule\/ApPrebidObject.swift",
+      "kind": "IntegerLiteral",
+      "offset": 178,
+      "length": 3,
+      "value": "320"
+    },
+    {
+      "filePath": "\/Users\/Rishabh\/Documents\/Swift\/ApPrebidModule\/Sources\/ApPrebidModule\/ApPrebidObject.swift",
+      "kind": "IntegerLiteral",
+      "offset": 204,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/Rishabh\/Documents\/Swift\/ApPrebidModule\/Sources\/ApPrebidModule\/ApPrebidObject.swift",
+      "kind": "BooleanLiteral",
+      "offset": 254,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/Rishabh\/Documents\/Swift\/ApPrebidModule\/Sources\/ApPrebidModule\/ApPrebidSDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 243,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/Rishabh\/Documents\/Swift\/ApPrebidModule\/Sources\/ApPrebidModule\/ApPrebidStorage.swift",
+      "kind": "StringLiteral",
+      "offset": 253,
+      "length": 12,
+      "value": "\"ApHbConfig\""
+    },
+    {
+      "filePath": "\/Users\/Rishabh\/Documents\/Swift\/ApPrebidModule\/Sources\/ApPrebidModule\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 210,
+      "length": 38,
+      "value": "\"https:\/\/cdn.adpushup.com\/android-hb\/\""
+    },
+    {
+      "filePath": "\/Users\/Rishabh\/Documents\/Swift\/ApPrebidModule\/Sources\/ApPrebidModule\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 278,
+      "length": 7,
+      "value": "\".json\""
+    },
+    {
+      "filePath": "\/Users\/Rishabh\/Documents\/Swift\/ApPrebidModule\/Sources\/ApPrebidModule\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 316,
+      "length": 4,
+      "value": "3000"
+    },
+    {
+      "filePath": "\/Users\/Rishabh\/Documents\/Swift\/ApPrebidModule\/Sources\/ApPrebidModule\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 360,
+      "length": 4,
+      "value": "7000"
+    },
+    {
+      "filePath": "\/Users\/Rishabh\/Documents\/Swift\/ApPrebidModule\/Sources\/ApPrebidModule\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 415,
+      "length": 5,
+      "value": "25000"
+    },
+    {
+      "filePath": "\/Users\/Rishabh\/Documents\/Swift\/ApPrebidModule\/Sources\/ApPrebidModule\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 450,
+      "length": 38,
+      "value": "\"0689a263-318d-448b-a3d4-b02e8a709d9d\""
+    },
+    {
+      "filePath": "\/Users\/Rishabh\/Documents\/Swift\/ApPrebidModule\/Sources\/ApPrebidModule\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 530,
+      "length": 58,
+      "value": "\"https:\/\/prebid-server-test-j.prebid.org\/openrtb2\/auction\""
+    },
+    {
+      "filePath": "\/Users\/Rishabh\/Documents\/Swift\/ApPrebidModule\/Sources\/ApPrebidModule\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 629,
+      "length": 48,
+      "value": "\"https:\/\/prebid-server-test-j.prebid.org\/status\""
+    },
+    {
+      "filePath": "\/Users\/Rishabh\/Documents\/Swift\/ApPrebidModule\/Sources\/ApPrebidModule\/Constants.swift",
+      "kind": "BooleanLiteral",
+      "offset": 698,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/Rishabh\/Documents\/Swift\/ApPrebidModule\/Sources\/ApPrebidModule\/Constants.swift",
+      "kind": "BooleanLiteral",
+      "offset": 737,
+      "length": 5,
+      "value": "false"
+    }
+  ]
+}

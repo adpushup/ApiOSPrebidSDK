@@ -1,0 +1,11 @@
+framework module ApPrebidModule {
+  umbrella header "ApPrebidModule.h"
+  export *
+
+  module * { export * }
+}
+
+module ApPrebidModule.Swift {
+  header "ApPrebidModule-Swift.h"
+  requires objc
+}
