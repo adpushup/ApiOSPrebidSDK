@@ -6,15 +6,15 @@
 	<dict>
 		<key>Frameworks/Pods_ApPrebidModule.framework/Info.plist</key>
 		<data>
-		dNfW94kJ6ZSUvOSi1Cj/oGC0K9s=
+		fPhwgxc/wV1URBfTV4jxnB1Gx/g=
 		</data>
 		<key>Frameworks/Pods_ApPrebidModule.framework/Pods_ApPrebidModule</key>
 		<data>
-		YKVu8f06gvrWf0X/Ud62CVR1igs=
+		g8eXL0UYlpUuxvorUMqTkdkVSyQ=
 		</data>
 		<key>Frameworks/Pods_ApPrebidModule.framework/_CodeSignature/CodeResources</key>
 		<data>
-		UwBDh6TTkqJrQn6Q3umgdZ61PVQ=
+		Bc3Vi4vfayCYcqg3TZCOvjHn+p8=
 		</data>
 		<key>Frameworks/XCTest.framework/Info.plist</key>
 		<data>
@@ -31,6 +31,14 @@
 		<key>Frameworks/XCTest.framework/version.plist</key>
 		<data>
 		xDGviZpzrm+01+/G6mjF2xyaNk8=
+		</data>
+		<key>GoogleMobileAdsResources.bundle/Info.plist</key>
+		<data>
+		BRMxqRhIPrp1l+AuEyD5SsnDYXU=
+		</data>
+		<key>GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		VWCA3MeaiPMoOAS1uOteTSLX8js=
 		</data>
 		<key>Headers/ApPrebidModule-Swift.h</key>
 		<data>
@@ -88,6 +96,14 @@
 		<data>
 		ViyGc49RHp+CdXwY7spIkbIcMz0=
 		</data>
+		<key>UserMessagingPlatformResources.bundle/Info.plist</key>
+		<data>
+		6KpBrWk1NB24dPN5edtai635Hic=
+		</data>
+		<key>UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		k9OFlDPBRWfteJ+bfG12WAoBuls=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -95,21 +111,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			l7KbAqLY8+yq0VQG1KGnVD0sXmMSWDmQYB5EiGRbY6Q=
+			ZPGtwN87JG5mEmZk6ZxuO3lLwSlCeB3x7iZGefrOSeQ=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_ApPrebidModule.framework/Pods_ApPrebidModule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			K9dQ30dTTNO3UayvQtliriwf5URlEcNCSvQIZcou0QA=
+			jK0ibqe/RcTNu++9G2dkizvd5EU9xvhS6icPquDKfnw=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_ApPrebidModule.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aSytYrhJL4Sff2rZv0M94ddVl9M0BqgW7YMOHp97qJc=
+			F8aNs0O19gWF5pcz9cWxsPUaqQmhv4T8jcLD2Dd59TE=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/Info.plist</key>
@@ -138,6 +154,20 @@
 			<key>hash2</key>
 			<data>
 			99iJcSdsfsHV4Bo3pB/LTwsuPmeCtIKPHLtczm/fr4U=
+			</data>
+		</dict>
+		<key>GoogleMobileAdsResources.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jMZH21ZVAnPBCscHvhIHPsWT8JMhRbhIgD2DD1yeXs0=
+			</data>
+		</dict>
+		<key>GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			afsRJYL8I/wGxjXJYdJio/e0tWVNKEeHSR3jAA2t+dI=
 			</data>
 		</dict>
 		<key>Headers/ApPrebidModule-Swift.h</key>
@@ -229,6 +259,20 @@
 			<key>hash2</key>
 			<data>
 			a/lnAz6hJB2H9wlPSRaovfqdDtEU+vLArEbllGPxH0Q=
+			</data>
+		</dict>
+		<key>UserMessagingPlatformResources.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TU77PjMafBrYVKSCQPZH5ybaGJ+SbSeStkqkPqxee3Y=
+			</data>
+		</dict>
+		<key>UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RbetuZ/NLZYqHIAPv8wTJbV6f6QWX0FhgjI7tf/pyQA=
 			</data>
 		</dict>
 	</dict>
