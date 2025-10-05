@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "ApiOSPrebidSDK"
-  spec.version      = "1.0.2"
+  spec.version      = "1.0.3"
   spec.summary      = "ApiOSPrebidSDK provides full screen ad formats such as Smart Rewarded and Smart Interstitial ads for the iOS apps"
   spec.description  = "ApiOSPrebidSDK is easy to implement SDK provides full screen ad formats such as Smart Rewarded and Smart Interstitial ads for the iOS apps."
   spec.homepage     = "https://github.com/adpushup/ApiOSPrebidSDK"
